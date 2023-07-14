@@ -10,7 +10,7 @@ This is a React-based user interface for uploading PDF files. Users can either c
 - Displays toast notifications using Toastify to provide feedback to the user.
 
 ## Installation
-- Clone this project
+- Clone this project : git clone https://github.com/homosapian1999/File-Uploader.git
 - Start by installing npm if you don't have it already.
 - Navigate to Project Directory.
 - After reaching the project directory you have to run the following the command.
